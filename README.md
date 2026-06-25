@@ -75,3 +75,4 @@ if __name__ == "__main__":
 print("yay")
 print("why")
 srt(98)
+print("why")
